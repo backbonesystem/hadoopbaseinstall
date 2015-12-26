@@ -1,2 +1,2 @@
-# hadoopbaseinstall
-base installation methods for hadoop on various cluster (mesos, docker container on single node, docker container on multinode, kubernetes, cloud providers, administered or provisioned by Apache Ambari)
+# Apache Hadoop basic installation methods
+Basic installation methods for Apache Hadoop on various platforms (Apache Mesos, Docker container on single node, Docker container on multinode, Google Kubernetes, various cloud providers (Amazon, Google, Microsoft), administered or provisioned by Apache Ambari)
